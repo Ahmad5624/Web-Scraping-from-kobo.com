@@ -304,7 +304,7 @@ if __name__ == "__main__":
 
 ```
 ## Documentation
-To learn more about the selenium-driverless, visit the official page now:
+To learn more about the playwright and their asynchronous approach, visit the official page now:
 [Documentation](https://playwright.dev/python/docs/api/class-playwright)
 
 
