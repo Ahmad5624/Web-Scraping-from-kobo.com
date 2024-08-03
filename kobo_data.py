@@ -52,7 +52,7 @@ async def process_links(links, queue, playwright):
 
         for link in links:
             await process_link(link, page)
-            await queue.put(None)  # Signal link processing completion
+            await queue.put(None)  # Single link processing completion
 
         print("Processed", len(links), "links")
     finally:
