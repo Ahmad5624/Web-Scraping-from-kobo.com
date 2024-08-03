@@ -30,7 +30,7 @@ To run the "kobo_data.py":
   pip install asyncio
 ```
 
-## Usage(Testing Code.py)
+## Usage(kobo_data.py)
 
 ```javascript
 import csv
