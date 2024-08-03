@@ -304,8 +304,10 @@ if __name__ == "__main__":
 
 ```
 ## Documentation
-To learn more about the playwright and their asynchronous approach, visit the official page now:
+1.To learn more about the playwright and their asynchronous approach, visit the official page now:
 [Documentation](https://playwright.dev/python/docs/api/class-playwright)
+2.To learn more about the Selectolax, visit the official page now:
+[Documentation](https://selectolax.readthedocs.io/en/latest/parser.html)
 
 
 # Support
